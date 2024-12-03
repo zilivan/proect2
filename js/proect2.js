@@ -1,4 +1,4 @@
-var nomerBrand = 6;
+var nomerBrand = 2;
 var brends = ["hp","aplle","aser","bosh","samsung","hp","aser","bosh","aser","bosh","samsung","hp"];
 var catTemplate = document.querySelector('#cat-copy').content;
 var newCatTemplate = catTemplate.querySelector('.cat');
